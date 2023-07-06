@@ -6,4 +6,3 @@ def encabezado():
     print("Bienvenido")
 
     
-holamundo()
